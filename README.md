@@ -3,7 +3,10 @@ Just some notes for my lab.   Please move on.
 
 ## Ingredients 
 
-### DNS
+
+### Services
+ - DNS
+ - Let's Encrypt
 
 ### Server 1 (Raspberry Pi 4)
  - CoreDNS
@@ -14,5 +17,5 @@ Just some notes for my lab.   Please move on.
  - vCenter
  - Ops Manager
  - OCP4 on vSphere
- 
- 
+ - Tanzu Kubernetes Grid Integrated Edition on vSphere
+
